@@ -1,0 +1,6 @@
+/.netlify/
+/dist/
+/netlify-drop-ready/
+/node_modules/
+/wedding-invite-local-preview.html
+.DS_Store
